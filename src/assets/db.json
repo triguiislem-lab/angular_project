@@ -1,0 +1,17 @@
+{
+    "members": [
+        {
+            "id":1, 
+            "cin":"12345678",
+            "name":"John Doe",
+            "type":"teacher",
+            "createdAt":"12/12"
+      
+          },{
+            "id":2, 
+            "cin":"678",
+            "name":"joey",
+            "type":"data",
+            "createdAt":"12/11"
+          }]
+}
